@@ -1,10 +1,10 @@
 # Sertifikalar
 
 ## Makine öğrenmesi sertifikası:
-[Makine_%C3%96%C4%9Frenmesi_Sertifika.pdf](https://github.com/user-attachments/files/24748478/Makine_.C3.96.C4.9Frenmesi_Sertifika.pdf)
+<img width="1440" height="900" alt="Ekran Resmi 2026-01-19 21 02 34" src="https://github.com/user-attachments/assets/70342127-cdc3-448b-9a97-10ce6170c503" />
 
 ## Python Sertifikası
-[S%C4%B1f%C4%B1rdan_%C4%B0leri_Seviye_Python_Programlama_Sertifika.pdf](https://github.com/user-attachments/files/24748486/S.C4.B1f.C4.B1rdan_.C4.B0leri_Seviye_Python_Programlama_Sertifika.pdf)
+<img width="1440" height="900" alt="Ekran Resmi 2026-01-19 20 33 17" src="https://github.com/user-attachments/assets/51683c01-ecd1-4d82-acff-555ded50c21b" />
 
 
 # Smart Bin Machine Learning Project
