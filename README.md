@@ -3,7 +3,7 @@
 Bu projedeki amaç akıllı konteynerlere ait sensör verilerini analiz ederek hangi konteyner türünün, hangi atık türünde daha hızlı dolduğunu belirlemek ve ayrıca 
 konteynerların boşaltılması gerekip gerekmediğini makine öğrenmesi modelleri ile tahmin etmektir.
 
-## Veri
+## Veri Seti
 Projede 'Smart_Bin.csv' adlı veri seti kullandık.
 Veri seti; konteyner doluluk seviyeleri, geçmiş doluluk bilgileri ve atık türlerine ait bilgiler içermektedir.
 
