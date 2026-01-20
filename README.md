@@ -19,6 +19,7 @@ Eksik verileri aşağıdaki şekilde temizledik:
 Pivot tablosu oluşturduk ve bu tablo sayesinde:
 Hangi konteyner türünün, hangi atık türünde daha hızlı dolduğunu gördük. 
 En hızlı dolan konteyner + atık türü kombinasyonlarını şu şekilde belirledik:
+
 <img width="508" height="434" alt="Ekran Resmi 2026-01-20 21 19 44" src="https://github.com/user-attachments/assets/8754500a-7d67-4f4a-821e-230763c3bdab" />
 
 pivot sonuçlarını grafikle gösterdik:
