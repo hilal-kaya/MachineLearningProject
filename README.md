@@ -1,3 +1,12 @@
+# Sertifikalar
+
+## Makine öğrenmesi sertifikası:
+[Makine_%C3%96%C4%9Frenmesi_Sertifika.pdf](https://github.com/user-attachments/files/24748478/Makine_.C3.96.C4.9Frenmesi_Sertifika.pdf)
+
+## Python Sertifikası
+[S%C4%B1f%C4%B1rdan_%C4%B0leri_Seviye_Python_Programlama_Sertifika.pdf](https://github.com/user-attachments/files/24748486/S.C4.B1f.C4.B1rdan_.C4.B0leri_Seviye_Python_Programlama_Sertifika.pdf)
+
+
 # Smart Bin Machine Learning Project
 
 Bu projedeki amaç akıllı konteynerlere ait sensör verilerini analiz ederek hangi konteyner türünün, hangi atık türünde daha hızlı dolduğunu belirlemek ve ayrıca 
